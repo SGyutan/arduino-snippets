@@ -1,4 +1,6 @@
-//シリアルでTTLを制御するプログラミング
+//シリアルでDigitaloutを制御するプログラミング
+//PCからシリアル通信→Arduino→Digital outのHIGH/LOW制御
+//TTL制御ボードの代わりにArduinoを用いる
 //参考：ゆうがたの「特にコレと言って」【prog】Arduino・シリアルで文字列受信するには
 //https://ch.nicovideo.jp/yugata/blomaga/ar1177727
 //
